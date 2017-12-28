@@ -29,4 +29,4 @@ lines(x,hx1,col="red")
 lines(x,hx3,col="green")
 lines(x,hxtest,col="blue")
 ```
-![alt text](https://raw.githubusercontent.com/AliceGos/FIRST/path/to/hyperlog.png)
+![hyperlog](https://user-images.githubusercontent.com/34915836/34412707-0704edc0-ebdf-11e7-828a-e1a63534ff17.png)
